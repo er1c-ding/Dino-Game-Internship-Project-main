@@ -1,3 +1,5 @@
+11th grade ICS3U final project.
+
 # Dino Game Internship Project
 
 This is a mock internship for secondary school students to learn about the software development process. The project is inspired by the popular Chrome Dino Game. 
